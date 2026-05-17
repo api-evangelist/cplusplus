@@ -1,6 +1,6 @@
 aid: cplusplus
 name: C++
-x-type: opensource
+kind: opensource
 description: >-
   C++ is a general-purpose, statically typed, compiled programming language
   created by Bjarne Stroustrup as an extension of C. C++ supports object-
