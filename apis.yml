@@ -29,6 +29,8 @@ tags:
   - Systems Programming
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/cplusplus-domain-security.yml
   - type: Website
     url: https://isocpp.org/
   - type: ReferenceDocumentation
@@ -59,6 +61,8 @@ common:
     url: https://www.reddit.com/r/cpp/
   - type: StackOverflow
     url: https://stackoverflow.com/questions/tagged/c%2b%2b
+  - url: https://isocpp.org/blog/rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
