@@ -10,7 +10,18 @@ description: >-
   with current revisions including C++20 and C++23. C++ does not expose a
   network/HTTP API; this index captures the language home, standards process,
   reference documentation, and ecosystem resources.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cplusplus.png
 url: https://raw.githubusercontent.com/api-evangelist/cplusplus/refs/heads/main/apis.yml
 type: Index
 access: Open Source
