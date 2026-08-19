@@ -10,6 +10,7 @@ description: >-
   with current revisions including C++20 and C++23. C++ does not expose a
   network/HTTP API; this index captures the language home, standards process,
   reference documentation, and ecosystem resources.
+specificationVersion: '0.23'
 accessModel:
   pricing: unknown
   onboarding: unknown
