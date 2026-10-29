@@ -1,4 +1,4 @@
-# C++ (cplusplus)
+# cplusplus
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,47 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-C++ is a general-purpose, statically typed, compiled programming language created by Bjarne Stroustrup as an extension of C. C++ supports object-oriented, generic, and functional programming and is widely used in systems programming, game engines, embedded systems, scientific computing, finance, and high-performance services. The language is standardized by ISO/IEC JTC1/SC22/WG21, with current revisions including C++20 and C++23.
+## cplusplus on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/cplusplus/refs/heads/main/apis.yml)
+Everything profiled for cplusplus is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cplusplus/](https://apis.io/providers/cplusplus/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Producing
-- **Access:** Open Source
-- **x-type:** opensource
+Not yet rated. See [apis.io/providers/cplusplus/](https://apis.io/providers/cplusplus/).
 
-## Tags
+## How this profile is made
 
-- C++, Compiled Languages, Generic Programming, ISO Standard, Object-Oriented, Open Source, Programming Language, Standards, Systems Programming
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for cplusplus: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-C++ is a programming language and does not expose a network/HTTP API. This index captures the language home, standards process, reference documentation, compilers, package managers, and community resources.
-
-## Common Properties
-
-- [ISO C++ Foundation](https://isocpp.org/)
-- [Reference Documentation (cppreference.com)](https://en.cppreference.com/w/)
-- [ISO Standards Committee (WG21)](https://www.open-std.org/jtc1/sc22/wg21/)
-- [Bjarne Stroustrup's Site](https://www.stroustrup.com/)
-- [Get Started](https://isocpp.org/get-started)
-- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-- [GCC](https://gcc.gnu.org/)
-- [Clang](https://clang.llvm.org/)
-- [MSVC](https://learn.microsoft.com/en-us/cpp/)
-- [vcpkg](https://vcpkg.io/)
-- [Conan](https://conan.io/)
-- [r/cpp on Reddit](https://www.reddit.com/r/cpp/)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cplusplus/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
